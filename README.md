@@ -8,3 +8,5 @@ Requirements:
 Click this  
 <a href = "https://www.mediafire.com/file/1i8w8a7jqi76yyc/asm_tools.rar/file" target = "_blank">link</a>
 to download the complete .zip to fully use the game.
+
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
