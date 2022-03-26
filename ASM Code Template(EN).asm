@@ -1,6 +1,7 @@
 .386
 .model flat, stdcall
 
+
 ; including libraries and external procedures
 includelib msvcrt.lib
 extern exit: proc
